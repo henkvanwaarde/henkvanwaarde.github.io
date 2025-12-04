@@ -1,7 +1,21 @@
 # jemdoc: menu{menu.jemdoc}{presentations.html}, nofooter
 == Presentations and talks
 
-== SCO Colloquium (University of Groningen, Netherlands)
+== O'Higgins Seminar on Optimization 2025 (University of O'Higgins, Chile)
+
+~~~
+{}{img_left}{./thumbnails/OHIGGINS2025/OHIGGINS2025.PNG}{}{300}{200}{./slides/OHIGGINS2025/OHIGGINS2025.pdf}
+/Data-driven stabilization using prior knowledge on controllability and stabilizability/
+~~~
+
+== DISC Summer School 2025 (Noordwijkerhout, Netherlands)
+
+~~~
+{}{img_left}{./thumbnails/DISC2025/DISC2025.PNG}{}{300}{200}{./slides/DISC2025/DISC2025.pdf}
+/Experiment design for data-driven modeling, analysis and control/
+~~~
+
+== SCO Colloquium 2025 (University of Groningen, Netherlands)
 
 ~~~
 {}{img_left}{./thumbnails/SCO2025/SCO2025.PNG}{}{300}{200}{./slides/SCO2025/SCO2025.pdf}
