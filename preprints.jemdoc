@@ -2,7 +2,63 @@
 == Preprints and submitted papers
 
 ~~~
+{9}
+A. Shakouri, H.J. van Waarde, and M.K. Camlibel \n
+*Experiment Design for Set-membership Identification: From Prior Knowledge to Universal Inputs*\n
+/submitted for publication/, 2026 \n
+[https://arxiv.org/abs/2607.00844 \[arXiv\]]
+~~~
+
+~~~
+{8}
+H. Huang, M.K. Camlibel, and H.J. van Waarde \n
+*A New Noise Model for Data-driven Control: Generalized Frobenius Norm Bounds*\n
+/submitted for publication/, 2026 \n
+[https://arxiv.org/abs/2606.28557 \[arXiv\]]
+~~~
+
+~~~
+{7}
+B. Shali and H.J. van Waarde \n
+*Kernel-based identification of nonlinear port-Hamiltonian systems*\n
+/submitted for publication/, 2026 \n
+[https://arxiv.org/abs/2606.12163 \[arXiv\]]
+~~~
+
+~~~
 {6}
+J. Wang, S. Baldi, and H.J. van Waarde \n
+*Data-Driven Robust Model Reference Adaptive Control with Parameter Convergence*\n
+/submitted for publication/, 2026 \n
+[https://arxiv.org/abs/2606.07911 \[arXiv\]]
+~~~
+
+~~~
+{5}
+H.J. van Waarde, J. Coulson, and A. Padoan \n
+*From time series to dissipativity of linear systems with dynamic supply rates*\n
+/submitted for publication/, 2026 \n
+[https://arxiv.org/abs/2602.13654 \[arXiv\]]
+~~~
+
+~~~
+{4}
+J. Wang, S. Baldi, and H.J. van Waarde\n
+*Online experiment design for continuous-time systems using generalized filtering*\n
+/submitted for publication/, 2025 \n
+[https://arxiv.org/abs/2511.09386 \[arXiv\]]
+~~~
+
+~~~
+{3}
+A Shakouri, H.J. van Waarde, T.M.J.T. Baltussen, and W.P.M.H. Heemels\n
+*Data-Driven Stabilization Using Prior Knowledge on Stabilizability and Controllability*\n
+/submitted for publication/, 2025 \n
+[https://arxiv.org/abs/2510.25452 \[arXiv\]]
+~~~
+
+~~~
+{2}
 H.M. Heidema, H.J. van Waarde, and B. Besselink\n
 *Learning in Memristive Neural Networks*\n
 /submitted for publication/, 2025 \n
@@ -10,41 +66,10 @@ H.M. Heidema, H.J. van Waarde, and B. Besselink\n
 ~~~
 
 ~~~
-{5}
-H. Huang, M.K. Camlibel, R. Carloni, and H.J. van Waarde\n
-*Feedback Stabilization of Polynomial Systems: From Model-based to Data-driven Methods*\n
-/submitted for publication/, 2025 \n
-[https://arxiv.org/abs/2505.14457 \[arXiv\]]
-~~~
-
-~~~
-{4}
-H. Huang, M.K. Camlibel, R. Carloni, and H.J. van Waarde\n
-*Data-driven stabilization of polynomial systems using density functions*\n
-/submitted for publication/, 2025 \n
-[https://arxiv.org/abs/2503.07092 \[arXiv\]]
-~~~
-
-~~~
-{3}
-M.A. Huijzer, T. Chaffey, B. Besselink, and H.J. van Waarde\n
-*Convergence of energy-based learning in linear resistive networks*\n
-/submitted for publication/, 2025 \n
-[https://arxiv.org/abs/2503.00349 \[arXiv\]]
-~~~
-
-~~~
-{2}
+{1}
 J. Wang, S. Baldi, and H.J. van Waarde\n
 *Bridging Model Reference Adaptive Control and Data Informativity*\n
 /submitted for publication/, 2025 \n
 [https://arxiv.org/abs/2502.21091 \[arXiv\]]
 ~~~
-
-~~~
-{1} 
-A. Shakouri, H.J. van Waarde, and M.K. Camlibel \n
-*Chebyshev centers and radii for sets induced by quadratic matrix inequalities* \n
- /submitted for publication/, 2024 \n
-[https://arxiv.org/abs/2403.05315 \[arXiv\]]
 

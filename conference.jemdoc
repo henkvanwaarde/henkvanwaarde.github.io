@@ -1,6 +1,39 @@
 # jemdoc: menu{menu.jemdoc}{conference.html}, nofooter
 == Conference papers
 
+
+
+~~~
+{28}
+A. Shakouri, H.J. van Waarde, and M.K. Camlibel
+ \n
+*Experiment design using prior knowledge on controllability and stabilizability* \n
+/in Proceedings of the IFAC World Congress/, Busan, South Korea, 2026\n
+[https://arxiv.org/abs/2512.01876 \[arXiv\]]
+~~~
+
+~~~
+{27}
+A. Shakouri, H.J. van Waarde, and M.K. Camlibel \n
+*Universal Experiment Design for System Identification Using Prior Knowledge* \n
+/extended abstract in International Symposium on Mathematical Theory of Networks and Systems/, Waterloo, Canada, 2026.
+~~~
+
+~~~
+{26}
+B. Shali, R. Sepulchre, and H.J. van Waarde \n
+*Kernel-Based Models for Passive Operators on Finite Dimensional Spaces* \n
+/extended abstract in International Symposium on Mathematical Theory of Networks and Systems/, Waterloo, Canada, 2026.
+~~~
+
+~~~
+{25}
+M. Heidema, B. Besselink and H. J. van Waarde \n
+*Energy-based learning in resistor-capacitor circuits*\n
+/in Proceedings of the European Control Conference/, Reykjavík, Iceland, pp. 356--361, 2026. \n
+[https://ieeexplore.ieee.org/abstract/document/11625488 \[Publisher\]]
+~~~
+
 ~~~
 {24}
 M. Heidema, H.J. van Waarde, and B. Besselink \n

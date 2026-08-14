@@ -3,9 +3,6 @@
 
 == Ongoing projects
 
-*Postdocs:*
-- Brayan Shali (co-supervisor: Rodolphe Sepulchre)
-
 *PhD students:*
 - Michaela Repasova 
 - Jordan van Ekelenburg (co-supervisor: Femke Vossepoel)
@@ -17,12 +14,11 @@
 *Master students:* 
 - Hana Vlahov
 
-*Bachelor students:*
-- Mika Wohland
-- Qianyi Huang
-- Sergio Bonillo Ovejero
-
 == Past projects
+
+*Postdocs:*
+- Brayan Shali (2024-2025), /Kernel-based passive operators/ \n
+co-supervised with Rodolphe Sepulchre
 
 *Master:*
 - Encho Nguyen, /Energy-based learning in nonlinear resistive circuits/
@@ -34,6 +30,9 @@
 - Brayan Shali, /Strong structural properties of linear systems/
 
 *Bachelor:*
+- Qianyi Huang, /Data-driven stabilization of linear systems using prior knowledge/
+- Sergio Bonillo Ovejero, /Associate memory in Hopfield neural networks/
+- Mika Wohland, /Universality of persistently exciting inputs for adaptive control/
 - Lars Wieringa, /A State-Space Approach to the Small Gain and Passivity Theorems/
 - Encho Nguyen, /Positive linear systems/
 - Encho Nguyen (honours college project), /Synthesis of dissipative systems using input-state data/

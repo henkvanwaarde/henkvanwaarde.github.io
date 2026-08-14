@@ -2,6 +2,38 @@
 == Journal papers
 
 ~~~
+{31}
+H. Huang, M.K. Camlibel, R. Carloni, and H.J. van Waarde\n
+*Data-driven stabilization of polynomial systems using density functions*\n
+/in Automatica/, vol. 193, pp. 113229, 2026 \n
+[https://arxiv.org/abs/2503.07092 \[arXiv\]] [https://www.sciencedirect.com/science/article/pii/S0005109826004139 \[Publisher\]]
+~~~
+
+~~~
+{30}
+H. Huang, M.K. Camlibel, R. Carloni, and H.J. van Waarde\n
+*Feedback Stabilization of Polynomial Systems: From Model-based to Data-driven Methods*\n
+/to appear in IEEE Transactions on Automatic Control/, 2026 \n
+[https://arxiv.org/abs/2505.14457 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/11479884 \[Publisher\]]
+~~~
+
+~~~
+{29}
+M.A. Huijzer, T. Chaffey, B. Besselink, and H.J. van Waarde\n
+*Convergence of energy-based learning in linear resistive networks*\n
+/to appear in IEEE Transactions on Automatic Control/, 2026 \n
+[https://arxiv.org/abs/2503.00349 \[arXiv\]] [https://ieeexplore.ieee.org/abstract/document/11456345 \[Publisher\]]
+~~~
+
+~~~
+{28} 
+A. Shakouri, H.J. van Waarde, and M.K. Camlibel \n
+*Chebyshev centers and radii for sets induced by quadratic matrix inequalities* \n
+ /in Mathematics of Control, Signals, and Systems/, vol. 37, pp. 1007--1034, 2025 \n
+[https://arxiv.org/abs/2403.05315 \[arXiv\]] [https://link.springer.com/article/10.1007/s00498-025-00424-w \[Publisher\]]
+~~~
+
+~~~
 {27} 
 A. Shakouri, H.J. van Waarde, and M.K. Camlibel \n
 *A New Perspective on Willems’ Fundamental Lemma: Universality of Persistently Exciting Inputs* \n

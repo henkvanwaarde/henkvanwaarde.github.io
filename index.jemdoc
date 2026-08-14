@@ -18,21 +18,18 @@ h.j.van.waarde(at)rug(dot)nl \n\n\n
 ~~~
 
 \n
-I am an assistant professor at the University of Groningen, where I work in the Systems, Control and Optimization group within the Bernoulli Institute.
+I am an Assistant Professor at the University of Groningen, where I work in the Systems, Control and Optimization group within the Bernoulli Institute.
 \n
-I am also a member of the [https://www.rug.nl/research/fse/themes/dssc/about-dssc/ Centre for Data Science and Systems Complexity] and the
-[https://jcwcenter.web.rug.nl/ Jan C. Willems Center for Systems and Control].
+I am also a member of the [https://jcwcenter.web.rug.nl/ Jan C. Willems Center for Systems and Control] and the [https://www.rug.nl/research/fse/themes/dssc/about-dssc/ Centre for Data Science and Systems Complexity].
 \n 
-For my bio and a summary of my CV, see [bio.html this page]. 
-\n 
-Also feel free to browse through my [journal.html publications], [presentations.html presentations] and updates linked below. 
+For a short bio, see [bio.html this page]. Also feel free to browse through my [journal.html publications], [presentations.html presentations] and updates linked below. 
 
 == News
-+ May 2026:+ I co-lectured a course within the program of the [https://www.eeci-igsc.eu/ EECI International Graduate School on Control] at TU Hamburg! \n
-+ April 2026:+ I co-lectured a graduate course at Southeast University Nanjing, and attended the [https://sites.google.com/rug.nl/tokyo-data-driven-control/ Tokyo Workshop on Data-Driven Control]! \n
-+ July 2025:+ Check out my [./dblsct.html /new book on data-driven control/], co-authored with Kanat Camlibel and Harry Trentelman! \n
-+ June 2025:+ I gave a lecture at the [https://sites.google.com/rug.nl/discsummerschool2025/home?pli=1 DISC summer school] on experiment design for data-driven modeling and control. \n
-+ April 2025:+ I co-lectured a 5-day course at IIT Mandi, India. All handouts are [presentations.html online]! \n
+*May 2026:* I co-lectured a course within the program of the [https://www.eeci-igsc.eu/ EECI International Graduate School on Control] at TU Hamburg! \n
+*April 2026:* Co-lectured a graduate course at Southeast University Nanjing, and attended the [https://sites.google.com/rug.nl/tokyo-data-driven-control/ Tokyo Workshop on Data-Driven Control]! \n
+*July 2025:* Check out my [./dblsct.html /new book on data-driven control/], co-authored with Kanat Camlibel and Harry Trentelman! \n
+*June 2025:* I gave a lecture at the [https://sites.google.com/rug.nl/discsummerschool2025/home?pli=1 DISC summer school] on experiment design for data-driven modeling and control. \n
+*April 2025:* Co-lectured a 5-day course at IIT Mandi, India. All handouts are [presentations.html online]! \n
 
 
 #+ December 2024:+ We organized a workshop on data-driven control during the [https://cdc2024.ieeecss.org/ CDC] in Milan. Slides are available [https://sites.google.com/rug.nl/cdc24-workshop/home here]! \n
@@ -49,14 +46,14 @@ Also feel free to browse through my [journal.html publications], [presentations.
 # +June 2021:+ I am honored to receive the /2020 DISC Best Ph.D. Thesis Award/! The prize is awarded annually by the [http://disc.tudelft.nl/about/ Dutch Institute of Systems and Control]. 
 
 == Research
-My research interests lie in the field of systems and control. I aim to develop a systems and control theory that is grounded on measured data. I work towards mapping raw data into models and control policies with rigorous guarantees on accuracy, stability and performance,
+My research interests lie in the field of systems and control. My aim is to develop a systems and control theory that is grounded on measured data. I work towards mapping raw data into models and control policies with rigorous guarantees on accuracy, stability and performance,
 while answering key questions such as: /how much data is needed?/ /how to handle noise?/ and /how to perform control-relevant experiments?/
 
-Some of the specific topics of interest are:
+In particular, my current research interests are:
 - Direct data-driven control 
-- System identification
-- Kernel-based modeling of (physical) dynamical systems
-- Experiment design 
+- System identification and experiment design
+- Kernel methods  
+- Energy-based learning
 - Applications to networked systems and neuromorphic computing
 
 I am approaching the question of how much data is required for control via the concept of /data informativity/, see my [./dblsct.html new book] and the overview paper:
@@ -72,9 +69,13 @@ Kernel-based modeling for systems with (incremental) dissipativity properties is
 - [https://arxiv.org/abs/2110.11735 Kernel-based models for system analysis]
 - [https://arxiv.org/abs/2112.03344 Training Lipschitz continuous operators using reproducing kernels]
 
-Some other recent work involves the problem of experiment design:
+A few works on experiment design can be found here:
 - [https://arxiv.org/abs/2407.12509 The shortest experiment for linear system identification]
 - [https://ieeexplore.ieee.org/abstract/document/9882335 A persistency of excitation condition for continuous-time systems]
 - [https://arxiv.org/abs/2102.11193 Beyond persistent excitation: online experiment design for data-driven modeling and control]
+
+Some recent work on energy-based learning is linked below:
+- [https://ieeexplore.ieee.org/abstract/document/11456345 Convergence of energy-based learning in linear resistive networks]
+- [https://ieeexplore.ieee.org/abstract/document/11625488 Energy-based learning in resistor-capacitor circuits]
 
 A complete list of my publications and preprints can be found [journal.html here] or on my [https://scholar.google.com/citations?user=4K5iBboAAAAJ&hl=en Google Scholar] page.
