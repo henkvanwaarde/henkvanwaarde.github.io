@@ -18,11 +18,18 @@ h.j.van.waarde(at)rug(dot)nl \n\n\n
 ~~~
 
 \n
-I am an Assistant Professor at the University of Groningen, where I work in the Systems, Control and Optimization group within the Bernoulli Institute.
+I am an Assistant Professor at the University of Groningen, where I work in the Systems, Control and Optimization group.
 \n
 I am also a member of the [https://jcwcenter.web.rug.nl/ Jan C. Willems Center for Systems and Control] and the [https://www.rug.nl/research/fse/themes/dssc/about-dssc/ Centre for Data Science and Systems Complexity].
 \n 
-For a short bio, see [bio.html this page]. Also feel free to browse through my [journal.html publications], [presentations.html presentations] and updates linked below. 
+For a short bio, see [bio.html this page]. Also feel free to browse through my [journal.html publications], [presentations.html presentations] and updates linked below.
+
+~~~
+{}{raw}
+<div style="background: #faf6d3; padding: 10px; border-radius: 5px; text-indent: 0; margin-left: 0; border: 1px solid #999;">
+I have been awarded an <b>ERC Starting Grant</b> for my project <i>Energy-based Learning of Complex Dynamical Systems (E-BLOCS)</i>. We will develop new system-theoretic methods for local learning in networks of physical systems, motivated by challenges in analog and neuromorphic computing. I am currently looking for a PhD student. See <a href="https://werkenbij.rug.nl/vacature/phd-position-in-systems-and-control-theory-for-energy-based-learning-2430/?lang=en">this page</a> for more information on the position and how to apply!
+</div>
+~~~
 
 == News
 *May 2026:* I co-lectured a course within the program of the [https://www.eeci-igsc.eu/ EECI International Graduate School on Control] at TU Hamburg! \n
@@ -77,5 +84,6 @@ A few works on experiment design can be found here:
 Some recent work on energy-based learning is linked below:
 - [https://ieeexplore.ieee.org/abstract/document/11456345 Convergence of energy-based learning in linear resistive networks]
 - [https://ieeexplore.ieee.org/abstract/document/11625488 Energy-based learning in resistor-capacitor circuits]
+
 
 A complete list of my publications and preprints can be found [journal.html here] or on my [https://scholar.google.com/citations?user=4K5iBboAAAAJ&hl=en Google Scholar] page.
